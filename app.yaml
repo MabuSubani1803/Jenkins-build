@@ -1,0 +1,5 @@
+runtime: java17
+env: standard
+
+env_variables:
+  GOOGLE_CLOUD_PROJECT: heroic-gantry-441405-b3
